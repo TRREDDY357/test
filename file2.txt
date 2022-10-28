@@ -1,3 +1,4 @@
-hello from file2
+hii from file2
 add new line in file2 in qa 
-crearte new branch called feature and chanege this line 
+crearte new branch called feature and chanege this line
+hiii test vi command 
